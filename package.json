@@ -1,0 +1,22 @@
+{
+    "name": "project-pl",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/TamarAsashvili/project-pl.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/TamarAsashvili/project-pl/issues"
+    },
+    "homepage": "https://TamarAsashvili.github.io/project-pl",
+    "dependencies": {
+        "gh-pages": "^2.1.1"
+    }
+}
